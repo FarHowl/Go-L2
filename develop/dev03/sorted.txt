@@ -1,0 +1,5 @@
+banana 30
+orange 20
+apple 10
+grape 5
+kiwi 2
